@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>ToDoList</title>
+        <link rel="stylesheet" href="./src/CSS/styles.css">
+    </head>
+    <body>
+    <div class="ToDoList">
+        <header>
+            <h1>ToDoList</h1>
+            <span class="contador">0 tarefas</span>
+        </header>
+
+        <div class="caixa-entrada">
+            <input id="titulo" type="text" placeholder="Título da tarefa...">
+            <input id="desc" type="text" placeholder="Descrição...">
+            <button id="botaoAdd" class="botao">Adicionar</button>
+        </div>
+
+        <div class="filters">
+            <button class="filtro ativo" data-filter="all">Todos</button>
+            <button class="filtro" data-filter="active">Ativos</button>
+            <button class="filtro" data-filter="done">Concluídos</button>
+        </div>
+
+        <ul class="Lista" id="ListaToDo"></ul>
+    </div>
+
+    <script src="./src/JS/script.js"></script>
+    </body>
+</html>
