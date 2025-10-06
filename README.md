@@ -53,3 +53,10 @@ ToDoList/
 │     └─ script.js
 └─ README.md
 ```
+
+---
+
+## Membros
+
+Heitor Martins
+Rennan Medeiros
