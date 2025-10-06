@@ -1,4 +1,4 @@
-# ToDoList - Keniche
+# ToDoList
 
 Um aplicativo simples de lista de tarefas (ToDoList) feito com **HTML, CSS e JavaScript puro**. Permite adicionar tarefas com **título e descrição**, marcar como concluídas, deletar e filtrar por status.
 
