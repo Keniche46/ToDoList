@@ -59,3 +59,4 @@ ToDoList/
 ## Membros
 
 Heitor Martins
+Rennan Medeiros
